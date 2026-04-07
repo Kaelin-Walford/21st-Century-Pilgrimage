@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5858149425db8b3478adf323cd946a65
+timeCreated: 1551373894
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Materials/Auditorium_Vertical_Speaker_Backed.mat
+  uploadId: 297590

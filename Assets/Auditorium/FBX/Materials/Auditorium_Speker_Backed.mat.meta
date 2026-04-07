@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ba9335a87335ad840a47b48bd13291f0
+timeCreated: 1551373896
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Materials/Auditorium_Speker_Backed.mat
+  uploadId: 297590
