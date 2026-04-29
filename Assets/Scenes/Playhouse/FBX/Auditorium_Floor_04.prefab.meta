@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eba41b99c85511a4abddcc5de460862f
+timeCreated: 1551374991
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Auditorium_Floor_04.prefab
+  uploadId: 297590

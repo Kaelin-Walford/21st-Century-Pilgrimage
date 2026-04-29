@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c4e4d4b4a06290448710126625e10f5
+timeCreated: 1551375035
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Auditorium_Wooden_Wall.prefab
+  uploadId: 297590

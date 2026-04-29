@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7d66031b14a73b4bac228ad3c8da708
+timeCreated: 1551373897
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Materials/Auditorium_Wooden_Wall_Backed.mat
+  uploadId: 297590

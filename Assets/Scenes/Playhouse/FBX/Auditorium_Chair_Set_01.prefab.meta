@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff8b93af3778b2946b74b5a4742712a4
+timeCreated: 1551374991
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Auditorium_Chair_Set_01.prefab
+  uploadId: 297590

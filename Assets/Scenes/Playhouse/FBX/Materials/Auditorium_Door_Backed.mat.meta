@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7881a420e6bcf7745a0102fb2274e048
+timeCreated: 1551373895
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Materials/Auditorium_Door_Backed.mat
+  uploadId: 297590
