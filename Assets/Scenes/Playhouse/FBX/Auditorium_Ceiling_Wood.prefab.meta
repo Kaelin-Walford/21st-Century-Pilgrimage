@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 882134e7a3a90464d9cd50c7eaa5823d
+timeCreated: 1551374991
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Auditorium_Ceiling_Wood.prefab
+  uploadId: 297590
