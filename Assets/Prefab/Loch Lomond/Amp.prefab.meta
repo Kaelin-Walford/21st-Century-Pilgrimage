@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc62dba4f9c9fca4c8efeb3c6c0427ad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12177
+  packageName: Guitar And Amp
+  packageVersion: 1
+  assetPath: Assets/Prefabs/Amp.prefab
+  uploadId: 15334

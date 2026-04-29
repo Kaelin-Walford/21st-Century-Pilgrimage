@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a0fbe2256aebc74d9ed7709a76309ab
+timeCreated: 1551371171
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Materials/Auditorium_Chair_Set_08_Backed.mat
+  uploadId: 297590
