@@ -55,7 +55,7 @@ public class GrabHandPose : MonoBehaviour
 
     public void SetHandData(HandData hand, GameObject guitar, Vector3 newPosition, Quaternion newRotation)
     {
-        hand.root.localPosition = finalHandPosition;
+        hand.root.localPosition = newPosition;
         hand.root.localRotation = newRotation;
     }
 
@@ -67,6 +67,7 @@ public class GrabHandPose : MonoBehaviour
 
             if (handData.handType == HandData.HandModelType.Right)
             {
+                SetHandData(handData, rightHand.transform.parent.gameObject, startingHandPosition, startingHandRotation);
                 handData.animator.SetTrigger("Let Go of Guitar Trigger");
             }
         }
