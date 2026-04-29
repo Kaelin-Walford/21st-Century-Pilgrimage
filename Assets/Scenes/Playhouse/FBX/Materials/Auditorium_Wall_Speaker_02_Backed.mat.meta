@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 043193d26d2a826459c1b60fd6b858d3
+timeCreated: 1551373897
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Materials/Auditorium_Wall_Speaker_02_Backed.mat
+  uploadId: 297590

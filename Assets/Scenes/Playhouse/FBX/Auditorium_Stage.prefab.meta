@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9406fe8ae4d4f4c43b98ae9b18b26670
+timeCreated: 1551374991
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Auditorium_Stage.prefab
+  uploadId: 297590
