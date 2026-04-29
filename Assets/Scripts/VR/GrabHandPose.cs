@@ -21,7 +21,7 @@ public class GrabHandPose : MonoBehaviour
     {
         XRGrabInteractable grabInteractable = GetComponent<XRGrabInteractable>();
         grabInteractable.selectEntered.AddListener(SetupPose);
-        grabInteractable.selectExited.AddListener(SetupPose);
+        grabInteractable.selectExited.AddListener(endGrip);
         rightHand.gameObject.SetActive(false);
         leftHand.gameObject.SetActive(false);
     }
@@ -67,8 +67,7 @@ public class GrabHandPose : MonoBehaviour
 
             if (handData.handType == HandData.HandModelType.Right)
             {
-                SetHandDataValues(handData, rightHand);
-                handData.animator.SetTrigger("Hold Guitar Trigger");
+                handData.animator.SetTrigger("Let Go of Guitar Trigger");
             }
         }
     }
