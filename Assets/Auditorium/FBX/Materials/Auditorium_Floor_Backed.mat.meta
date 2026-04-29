@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64d7ab6b84f38b342aca26ec07dfb583
+timeCreated: 1551373521
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 141127
+  packageName: Auditorium
+  packageVersion: 5.3.4f1
+  assetPath: Assets/Auditorium/FBX/Materials/Auditorium_Floor_Backed.mat
+  uploadId: 297590
