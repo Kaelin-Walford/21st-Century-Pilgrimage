@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Hand
+  - Pick
+  - Right Hand
+  - Left Hand
   layers:
   - Default
   - TransparentFX

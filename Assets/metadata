@@ -1,0 +1,164 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 0,
+		"createdAt": "",
+		"description": "<p><strong>Texel density:</strong> 5791 px/m</p><p><strong>Physical size:</strong> 4.22m x 15.48m x 3.47m</p><p><strong>Mesh type:</strong> Open mesh</p><p><strong>Maps:</strong> Cavity Specular AO Basecolor Displacement<em>(high tier only)</em> Bump Normal Gloss Roughness</p> <p><span>Create high-quality 3D experiences and worlds with Quixel Megascans. Browse thousands of photorealistic assets and environments, including materials, 3D assets, plants, decals, and more available </span><a target=\"_blank\" href=\"https://www.fab.com/sellers/Quixel\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span> on Fab.</span></p><p></p><p><span>For any questions or support regarding Quixel content, please get in touch </span><a target=\"_blank\" href=\"https://support.fab.com/s/?ProductOrigin=1PC\" rel=\"noopener noreferrer nofollow\"><span><u>here</u></span></a><span>.</span></p>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/f999e8e7-ac44-42f4-b468-d7d28d9db5cd/84f532f9-3c93-409a-b83b-b3653a353e10.jpeg",
+		"publishedAt": "2024-10-12T09:08:02.532671Z",
+		"reviewCount": 0,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/ffad1911-b262-4f99-bdc8-77dc0ad8bd59/9231f35f-51e2-4d14-b754-e3f0ee252a5a.jpeg",
+		"title": "Icelandic Jagged Lava Outcrop",
+		"uid": "d094c31b-f3c7-4f9a-b99b-714d765cc495",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/cover/67dbdb8f.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-cbf5bbfdb340d6a839b5520cb31328/profile/39e5dabd.png",
+			"sellerName": "Quixel Megascans",
+			"uid": "45ea3429-f62c-4f17-aa15-5bb9dfcd0079"
+		},
+		"tags": [
+			{
+				"name": "Rocky",
+				"slug": "rocky",
+				"uid": "043b758d-ca9a-4af6-9ac4-56167eccbdc0"
+			},
+			{
+				"name": "Cracked",
+				"slug": "cracked",
+				"uid": "1b840f32-d934-4e95-be9f-75d1e10331d7"
+			},
+			{
+				"name": "Dry",
+				"slug": "dry",
+				"uid": "57bdc10e-4b1d-405c-95ac-9acaf22d3618"
+			},
+			{
+				"name": "Outcrop",
+				"slug": "outcrop",
+				"uid": "865a6fbc-2c50-47c6-85f1-450f8b445c2b"
+			},
+			{
+				"name": "Sandy",
+				"slug": "sandy",
+				"uid": "aa2c3b92-0c67-4cfc-b978-925e057f3ea3"
+			},
+			{
+				"name": "Huge",
+				"slug": "huge",
+				"uid": "bc4c7044-9b58-4202-a341-46bbfc886dd5"
+			},
+			{
+				"name": "Lava",
+				"slug": "lava",
+				"uid": "c77e9e14-68e9-4e90-8d9a-6e5585268bc5"
+			},
+			{
+				"name": "Gravel",
+				"slug": "gravel",
+				"uid": "dc28f194-84e6-4492-9f1b-6a0cf657474f"
+			},
+			{
+				"name": "Sand",
+				"slug": "sand",
+				"uid": "e3a49f8e-3390-4d47-a4cf-0bb3b117b7b9"
+			}
+		],
+		"category":
+		{
+			"name": "Rocks & Stones",
+			"path": "nature-plants/rocks-stones",
+			"slug": "nature-plants--rocks-stones",
+			"uid": "6af99a0d-ca5b-4784-b0df-15a0a861c00a"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "ZBrush",
+					"groupName": "3D DCC Formats",
+					"code": "z-brush",
+					"icon": "zbrush",
+					"extensions": [
+						"zbp",
+						"ztl"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Additional files",
+					"groupName": "Other Formats",
+					"code": "additional-files",
+					"icon": "file",
+					"extensions": [
+						"zip"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "GLTF",
+					"groupName": "3D Exchange Formats",
+					"code": "gltf",
+					"icon": "cube",
+					"extensions": [
+						"gltf"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "bbd91ffc-cbb3-4756-b73e-edc754270bfb",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "unity",
+	"quality": "high",
+	"format": "fbx",
+	"fileId": "1e16707f-d8f2-4e00-8508-9be925c31d48",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "bbd91ffc-cbb3-4756-b73e-edc754270bfb",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": true
+}
