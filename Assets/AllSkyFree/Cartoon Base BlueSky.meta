@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Auditorium/FBX/Materials.meta
+guid: e2e26c93e0a96a14ea01411807adad23
+folderAsset: yes
+timeCreated: 1551370600
+========
 guid: 9f633969e0c5e4bfeba8bb43b5348d81
 folderAsset: yes
 timeCreated: 1557585925
+>>>>>>>> Develop:Assets/AllSkyFree/Cartoon Base BlueSky.meta
 licenseType: Store
 DefaultImporter:
   userData: 

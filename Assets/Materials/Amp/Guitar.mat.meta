@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: baf8118b364921749b39e463ef1bc73f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12177
+  packageName: Guitar And Amp
+  packageVersion: 1
+  assetPath: Assets/Models/Materials/Guitar.mat
+  uploadId: 15334
