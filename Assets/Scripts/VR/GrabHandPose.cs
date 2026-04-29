@@ -26,6 +26,7 @@ public class GrabHandPose : MonoBehaviour
         leftHand.gameObject.SetActive(false);
     }
 
+    //repositions the hand when grabing the guitar so it places it at the top
     public void SetupPose(BaseInteractionEventArgs args)
     {
         if (args.interactorObject is XRDirectInteractor)

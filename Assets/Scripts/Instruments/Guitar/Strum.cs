@@ -10,6 +10,7 @@ public class Strum : MonoBehaviour
 
     void OnTriggerEnter(Collider collision)
     {
+        //strums the string based on the cord and plays the animation
         if (collision.transform.tag == "Hand")
         {
             animator.SetTrigger(stringName);

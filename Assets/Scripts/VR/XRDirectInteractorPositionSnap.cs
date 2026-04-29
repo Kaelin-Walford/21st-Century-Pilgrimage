@@ -7,7 +7,7 @@ public class XRDirectInteractorPositionSnap : XRGrabInteractable
 {
     public Transform leftAttachTransform;
     public Transform rightAttachTransform;
-
+    //allows for different positions depending on what hand grabs the object
     public override Transform GetAttachTransform(IXRInteractor interactor)
     {
         if (interactor.transform.CompareTag("Left Hand"))

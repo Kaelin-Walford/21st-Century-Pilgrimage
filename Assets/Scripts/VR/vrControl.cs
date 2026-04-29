@@ -5,6 +5,7 @@ using UnityEngine.XR.Interaction.Toolkit.Interactors;
 
 public class vrControl : MonoBehaviour
 {
+    //for detecting when object is grabbed
     public XRGrabInteractable grabInteractable;
     void Start()
     {
@@ -15,7 +16,7 @@ public class vrControl : MonoBehaviour
     {
         if (args.interactorObject is XRDirectInteractor)
         {
-            audioCapturer.grabbed = true;
+            PlaySong.grabbed++;
         }
     }
     
@@ -23,7 +24,7 @@ public class vrControl : MonoBehaviour
     {
         if (args.interactorObject is XRDirectInteractor)
         {
-            audioCapturer.grabbed = false; 
+            PlaySong.grabbed--; 
         }
     }
 
