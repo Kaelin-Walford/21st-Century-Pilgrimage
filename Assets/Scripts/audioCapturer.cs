@@ -54,20 +54,24 @@ public class audioCapturer : MonoBehaviour
         
         /*if (collision.gameObject.CompareTag("Hand"))
         {
-            Record();
+            
         }*/
+        Record();
+        print("1");
     }
 
     private void OnCollisionExit(Collision collision)
     {
         
 
-        /*if (collision.gameObject.CompareTag("Hand"))
+        if (collision.gameObject.CompareTag("Hand"))
         { 
             Microphone.End(null);
+            print("2");
         }
 
-        PlaySound();*/
+        PlaySound();
+        print("3");
     }
 
 
