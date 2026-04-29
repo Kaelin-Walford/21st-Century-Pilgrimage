@@ -9,7 +9,7 @@ public class animateHandOnInput : MonoBehaviour
     public Animator handAnimator;
     void Update()
     {
-        //Animates the player hands
+        //Animates the player hands when not holding an object
         float trigger = triggerValue.action.ReadValue<float>();
         float grip = gripValue.action.ReadValue<float>();
 

@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class HandData : MonoBehaviour
 {
+    //stores data for use in moving the hand
     public enum HandModelType { Left, Right }
 
     public HandModelType handType;

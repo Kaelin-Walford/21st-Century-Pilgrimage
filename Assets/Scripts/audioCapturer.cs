@@ -16,11 +16,11 @@ public class audioCapturer : MonoBehaviour
     public InputActionProperty playButton;
     public XRGrabInteractable grabInteractable;
 
-    public static bool grabbed = false;
+    public static int grabbed = 0;
 
     void Update()
     {
-        if (grabbed)
+        if (grabbed > 0)
         {
             if (recordButton.action.WasPressedThisFrame() == true)
             {
@@ -40,13 +40,11 @@ public class audioCapturer : MonoBehaviour
     public void Record()
     {
         clip = Microphone.Start(null, false, 3599, AudioSettings.outputSampleRate);
-        print("1");
     }
 
     public void EndRecord()
     {
         Microphone.End(null);
-        print("2");
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -57,7 +55,6 @@ public class audioCapturer : MonoBehaviour
             
         }*/
         Record();
-        print("1");
     }
 
     private void OnCollisionExit(Collision collision)
@@ -67,11 +64,9 @@ public class audioCapturer : MonoBehaviour
         if (collision.gameObject.CompareTag("Hand"))
         { 
             Microphone.End(null);
-            print("2");
         }
 
         PlaySound();
-        print("3");
     }
 
 
@@ -79,6 +74,5 @@ public class audioCapturer : MonoBehaviour
     {
         Source.clip = clip;
         Source.Play();
-        print("3");
     }
 }
